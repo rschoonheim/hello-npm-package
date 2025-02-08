@@ -6,5 +6,9 @@
   "scripts": {
     "run": "node index.js"
   },
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rschoonheim/hello-npm-package.git"
+  }
 }
