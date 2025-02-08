@@ -1,5 +1,5 @@
 {
-  "name": "hello-npm-package",
+  "name": "@rschoonheim/hello-npm-package",
   "version": "1.0.0",
   "description": "Package made to test npm package release on github",
   "main": "index.js",
