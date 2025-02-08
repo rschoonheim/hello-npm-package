@@ -9,6 +9,6 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/rschoonheim/hello-npm-package.git"
+    "url": "git+https://github.com/rschoonheim/hello-npm-package.git"
   }
 }
